@@ -83,6 +83,7 @@ CCTV-女性时尚,http://dassby.qqff.top:99/live/女性时尚/index.m3u8
 CCTV-央视台球,http://dassby.qqff.top:99/live/央视台球/index.m3u8
 CCTV-央视高网,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 CCTV1,http://74.91.26.218:82/live/cctv1hd.m3u8
+CCTV5,http://gmxw.7766.org:808/hls/93/index.m3u8
 CCTV8,http://124.165.251.82:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV8,http://gmxw.7766.org:808/hls/96/index.m3u8
 CCTV12,http://74.91.26.218:82/live/cctv12hd.m3u8
@@ -101,15 +102,13 @@ BRTV 北京卫视 (1080p),http://go.bkpcp.top/mg/bjws
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
-浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
-东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
-东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8
 东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 东方卫视4K,https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
@@ -129,6 +128,7 @@ BRTV 北京卫视 (1080p),http://go.bkpcp.top/mg/bjws
 深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
 深圳卫视,http://gmxw.7766.org:808/hls/45/index.m3u8
 深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
+深圳卫视,http://gmxw.7766.org:808/hls/45/index.m3u8
 安徽卫视,http://gmxw.7766.org:808/hls/40/index.m3u8
 安徽卫视,http://gmxw.7766.org:808/hls/40/index.m3u8
 黑龙江卫视,http://61.136.172.236:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
